@@ -1,0 +1,1949 @@
+# Weekly Status Report
+
+## 📅 Week: (20/04/2026 - 24/04/2026)
+
+---
+
+## ✅ Completed Tasks
+
+- Git and GitHub
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 🔄 Work In Progress
+
+- JavaScript Course
+
+---
+
+## ⏳ Pending Tasks
+
+- Course Mini project
+- POCs of the phase 02
+
+---
+
+## 📈 Progress Summary
+
+- Learned all the Git commands with CLI and Current add branch, commit and push with CLI.
+- Learded HTML and CSS course through and also learn the some with Excerise which is course.
+- Learned JavaScript through course and as well with self learn from the website.
+
+---
+
+## ⚠️ Challenges / Blockers
+
+- Still not able to generate the branches and push code through GitHub Desktop.
+
+---
+
+## 🧑‍🏫 Mentor Feedback
+
+- Do pratical implementation.
+
+---
+
+## 🎯 Plan for Next Week
+
+- Complete JavaScript Course and its POCs.
+- Try to Complete the TypeScript basic.
+
+## 📅 Week: (27/04/2026 - 01/05/2026)
+
+---
+
+## ✅ Completed Tasks
+
+- Completed **JavaScript Mini Project – Todo App**
+- Completed multiple **JavaScript Practice POCs**
+- Built **POC 01 – Student Result Processor**
+- Built **POC 02 – User Feedback & Contact Management System**
+- Built **POC 03 – Product Listing & Cart System**
+- Started learning **TypeScript fundamentals**
+
+---
+
+## 🔄 Work In Progress
+
+- Learning **TypeScript core concepts**
+  - Interfaces
+  - Type annotations
+  - Functions
+  - Arrays and Objects
+  - DOM manipulation with TypeScript
+
+- Working on **Task Flow Mini Project using TypeScript**
+
+---
+
+## ⏳ Pending Tasks
+
+- Complete TypeScript learning basics
+- Complete **TypeScript Mini Project**
+- Build **POC – Product Listing & Cart System using TypeScript**
+- Practice more TypeScript exercises
+
+---
+
+## 📈 Progress Summary
+
+This week I focused on strengthening my **JavaScript fundamentals** through practical implementation.
+
+I successfully completed:
+
+- 1 JavaScript Mini Project
+- 3 JavaScript POCs
+
+Along with that, I started learning **TypeScript** and understood how it improves JavaScript by adding static typing and better code structure.
+
+---
+
+## ⚠️ Challenges / Blockers
+
+- Sometimes TypeScript errors are difficult to understand as a beginner
+- Need more practice in project folder structure and module imports/exports
+
+---
+
+## 🧑‍🏫 Mentor Feedback
+
+- Focus more on **practical implementation**
+- Build projects instead of only learning theory
+- Strengthen TypeScript basics before moving to advanced concepts
+
+---
+
+## 🎯 Plan for Next Week
+
+- Finish TypeScript basics
+- Complete **Task Flow Mini Project**
+- Build **TypeScript Product Listing & Cart System**
+- Solve beginner-level TypeScript challenges on TypeHero
+
+## 📅 Week: (04/05/2026 - 08/05/2026)
+
+## ✅ Completed Tasks
+
+### TypeScript
+
+- Started learning **TypeScript fundamentals**
+- Practiced:
+  - Interfaces
+  - Type annotations
+  - Functions
+  - Arrays and Objects
+  - DOM manipulation with TypeScript
+  - Generics
+
+- Worked on **TypeScript Task Manager Mini Project**
+- Fixed TypeScript errors related to:
+  - Spread operators
+  - Interface typing
+  - State management issues
+  - Module imports/exports
+- Do POC1 : Product Listing & Cart System
+
+### React Concepts Learned
+
+- Basic understaning of React and Virtual DOM
+
+- Learned **React Router DOM**
+- Understood:
+  - Routing basics
+  - Nested routes ( `<Outlet />` )
+  - Layout-based routing structure
+
+### State Management Practice
+
+- Practiced **useState with TypeScript**
+- Learned prop typing for state setters
+- Improved understanding of component data flow
+- useEffect and useRef hook
+
+---
+
+## 🔄 Work In Progress
+
+- Strengthening **TypeScript core concepts** through implementation
+- React concepts deep clear
+
+---
+
+## ⏳ Pending Tasks
+
+- Integrate APIs into React projects(Chat bot)
+- React POCs
+
+---
+
+## 📈 Progress Summary
+
+This week focused on transitioning from **JavaScript fundamentals to TypeScript and React development**.
+
+### Major Achievements
+
+Completed:
+
+- **TypeScript debugging and implementation exercises**
+- **Routing and state management concepts**
+
+Key improvement areas:
+
+- Better understanding of TypeScript type safety
+- Improved debugging approach
+- Better understanding of React component flow
+
+---
+
+## ⚠️ Challenges / Blockers
+
+- TypeScript error messages can still be difficult to interpret quickly
+- Need more confidence in larger project folder structure
+
+---
+
+## 🧑‍🏫 Mentor Feedback Applied
+
+Focused on:
+
+- Debugging independently before asking for help
+- Building stronger TypeScript fundamentals
+
+---
+
+## 🎯 Plan for Next Week
+
+- Build more React components using Tailwind
+- Practice API integration in React
+- Strengthen routing and state management concepts
+
+## 📅 Week: (11/05/2026 - 15/05/2026)
+
+## ✅ Completed Tasks
+
+### React Router Dom
+
+- `Browser Router`
+- `Routes`
+- `Route`
+- `Outlet`
+
+### React State Management
+
+- Learned **Context API**
+- Implemented:
+  - `createContext`
+  - Provider setup
+  - `useContext`
+  - Global theme management
+- Built **Theme Switcher using Context API**
+
+---
+
+### Redux & Redux Toolkit
+
+- Learned Redux core concepts:
+  - Store
+  - Actions
+  - Reducers
+  - Dispatch flow
+
+- Learned **Redux Toolkit**
+
+- Practiced:
+  - `configureStore()`
+  - `createSlice()`
+  - Global state updates
+
+- Built **Todo App using Redux Toolkit**
+
+---
+
+### Authentication Flow Practice
+
+- Implemented **Signup/Login functionality**
+
+- Used **localStorage** for persistent auth state
+
+- Built:
+  - Login state persistence
+  - Logout functionality
+  - Conditional navbar rendering
+
+## 🔄 Work In Progress
+
+- Improving authentication architecture
+- Understanding advanced Redux Toolkit patterns
+- Structuring scalable global state management
+
+---
+
+## ⏳ Pending Tasks
+
+- Protected routes implementation
+- Async state management using Redux Toolkit
+- API integration with Redux
+- Profile dropdown enhancements
+
+---
+
+## 📈 Progress Summary
+
+### Major Achievements
+
+Completed:
+
+- **Context API implementation**
+- **Redux Toolkit Todo App**
+- **Custom Skelton**
+- **Conditional UI rendering based on auth state**
+
+Key improvement areas:
+
+- Better understanding of global state management
+- Improved React component communication
+- Stronger debugging for state-related issues
+
+---
+
+## ⚠️ Challenges / Blockers
+
+- Understanding Redux data flow initially
+- Connecting Redux store with components
+- Choosing between Context API and Redux for different use cases
+
+---
+
+## 🧑‍🏫 Mentor Feedback Applied
+
+Focused on:
+
+- Building concepts through implementation
+- Solving state management issues independently
+
+---
+
+## 🎯 Plan for Next Week
+
+- Learn async operations with Redux Toolkit
+- Build protected routing system
+- Improve authentication using Context/Redux
+- SQL try to complete
+
+## 📅 Week: (18/05/2026 - 22/05/2026)
+
+## ✅ Completed Tasks
+
+### POC3 - Typing Speed Test
+
+- Completed core functionality for **Typing Speed Test (POC3)**
+
+- Implemented:
+  - Typing logic
+  - WPM calculation
+  - CPM calculation
+  - Accuracy tracking
+  - Mistake counting
+  - Result screen generation
+
+- Added **Redux Toolkit** integration:
+  - `Auth Slice`
+  - `Result Slice`
+
+- Managed:
+  - Global authentication state
+  - Typing result persistence
+  - User-based result handling
+
+---
+
+### Previous POCs Improvements
+
+- Solved multiple issues from earlier POCs
+- Refactored some components for cleaner structure
+
+---
+
+### SQL Learning
+
+- Started learning **Core SQL**
+- Learned fundamentals of:
+  - Databases
+  - DBMS
+  - Relational databases
+  - SQL syntax and query flow
+- Practiced:
+  - `SELECT`
+  - `WHERE`
+  - `ORDER BY`
+  - `GROUP BY`
+  - `HAVING`
+  - `JOINS`
+  - `SUBQUERIES`
+  - Aggregate functions
+
+- Learned advanced concepts:
+  - SQL Functions
+  - Triggers
+  - Procedures
+
+- Solved:
+  - **50+ SQL practice questions**
+
+---
+
+### PostgreSQL
+
+- Started learning **PostgreSQL**
+
+- Worked on:
+  - PostgreSQL setup
+  - Database connections
+  - Query execution using different tools
+- Practiced:
+  - Table creation
+  - Constraints
+  - Data insertion
+  - Query execution
+- Solved:
+  - **20+ PostgreSQL practice questions**
+
+---
+
+### SQL Problem Solving
+
+- Started solving **SQL LeetCode problems**
+
+- Practiced:
+  - Joins-based problems
+  - Aggregation problems
+  - Filtering queries
+  - Date-based SQL questions
+
+- Solved:
+  - **15+ SQL LeetCode questions**
+
+---
+
+## 🔄 Work In Progress
+
+- Improving Redux Toolkit architecture
+- Learning advanced SQL queries
+- Improving PostgreSQL understanding
+- Practicing SQL problem-solving consistency
+
+---
+
+## ⏳ Pending Tasks
+
+- Connect APIs with Redux Toolkit
+- Learn advanced PostgreSQL concepts
+- Continue SQL LeetCode practice
+- Database design and normalization
+
+---
+
+## 📈 Progress Summary
+
+### Major Achievements
+
+Completed:
+
+- **POC3 Typing Speed Test functionality**
+- **Redux Toolkit integration with auth and result slices**
+- **50+ Core SQL practice questions**
+- **20+ PostgreSQL questions**
+- **15+ SQL LeetCode problems**
+
+Key improvement areas:
+
+- Better understanding of Redux state architecture
+- Improved debugging skills
+- Stronger SQL query writing
+- Better problem-solving approach in SQL
+
+---
+
+## ⚠️ Challenges / Blockers
+
+- Understanding complex SQL joins initially
+- Managing Redux state flow efficiently
+- Debugging state synchronization issues
+
+---
+
+## 🧑‍🏫 Mentor Feedback Applied
+
+Focused on:
+
+- Practicing more SQL questions consistently
+- Improving problem-solving independently
+
+---
+
+## 🎯 Plan for Next Week
+
+- Learn advanced PostgreSQL concepts
+- Continue SQL LeetCode practice
+- Improve authentication architecture
+- Strat Node.js Phase
+
+## 📅 Week: (25/05/2026 - 29/05/2026)
+
+## ✅ Completed Tasks
+
+### PostgreSQL Development
+
+- Built a complete **E-Commerce Order Management System** using PostgreSQL.
+- Worked with:
+  - CRUD Operations
+  - Joins & Aggregation Queries
+  - Views
+  - Indexes
+  - Triggers
+  - Functions
+  - Stored Procedures
+  - Transactions
+
+---
+
+### Node.js & Express.js Learning
+
+- Started learning **Node.js** and **Express.js**.
+- Understood:
+  - Event Loop
+  - Asynchronous Programming
+  - Blocking vs Non-Blocking Operations
+  - CommonJS and ES Modules
+  - Node.js Core Modules
+- Built HTTP servers and explored request-response handling.
+- Learned Express routing and middleware concepts.
+
+---
+
+### REST API Development
+
+- Developed REST APIs using Express.js.
+- Implemented: `GET`, `POST`, `PUT`, `DELETE`
+- Practiced API testing using Postman.
+- Connected Node.js applications with PostgreSQL using `pg`.
+- Executed SQL queries directly from backend APIs.
+
+---
+
+### TypeORM Learning
+
+- Started working with **TypeORM** and PostgreSQL.
+- Learned:
+  - DataSource Configuration
+  - Entities
+  - Repositories
+  - Entity Decorators
+- Built CRUD APIs using TypeORM.
+- Practiced database modeling using Entity classes.
+- Performed database operations using repository methods.
+
+---
+
+### Validation & Security
+
+- Started **POC1 Backend Development**.
+- Implemented request validation using **Zod**.
+- Added centralized error handling middleware.
+- Learned password hashing using **bcrypt**.
+- Improved API response handling and error management.
+
+---
+
+## 💡 Key Concepts Learned
+
+- PostgreSQL Database Design
+- Transactions, Triggers & Procedures
+- Node.js Event Loop & Async Programming
+- Express.js Middleware Flow
+- REST API Architecture
+- PostgreSQL Integration with Node.js
+- TypeORM Entities & Repositories
+- Backend Layered Architecture
+- Input Validation using Zod
+- Password Security using bcrypt
+
+---
+
+## 📈 Major Achievements
+
+- Full PostgreSQL E-Commerce Database Project
+- Node.js Fundamentals
+- Express.js REST API Development
+- PostgreSQL Integration with Node.js
+- TypeORM CRUD Implementation
+- Validation Middleware using Zod
+- Password Hashing using bcrypt
+
+---
+
+## 🔄 Work In Progress
+
+- Building POC1 backend features
+- Learning authentication and authorization
+- Understanding TypeORM relationships
+
+---
+
+## ⏳ Pending Tasks
+
+- JWT Authentication
+- Role-Based Authorization
+- Refresh Token Implementation
+- TypeORM Relationships
+
+---
+
+## ⚠️ Challenges / Blockers
+
+- Understanding TypeORM workflow and repositories
+- Managing async database operations
+- Implementing validation and error handling correctly
+
+---
+
+## 🧑‍🏫 Mentor Feedback Applied
+
+Focused on:
+
+- Writing cleaner and modular backend code
+- Improving debugging and problem-solving skills
+
+---
+
+## 🎯 Plan for Next Week
+
+- Complete POC1 Backend Development
+- Implement JWT Authentication & Authorization
+- Add Role-Based Access Control
+- Learn Advanced TypeORM Relationships
+- Explore Database Transactions
+- Improve API Security Practices
+
+## 📅 Week: (01/06/2026 - 05/06/2026)
+
+## ✅ Completed Tasks
+
+- Continued POC1 Backend Development using Node.js, Express.js, PostgreSQL, and TypeORM.
+- Designed a scalable backend folder structure following industry practices.
+
+### TypeORM Development
+
+- Learned and implemented TypeORM Migration workflow.
+- Created and executed multiple database migrations.
+- Practiced:
+  - Creating migration files
+  - Running migrations
+  - Updating database schema through migrations
+
+---
+
+### Authentication & Authorization
+
+- Implemented complete Authentication and Authorization system.
+- Integrated bcrypt for:
+  - Password Hashing
+  - Password Comparison
+
+- Implemented JWT Authentication:
+  - Token Generation
+  - Token Verification
+  - Authentication Middleware
+
+- Built Authentication Module:
+  - User Registration
+  - User Login
+
+- Implemented Role-Based Access Control (RBAC).
+
+---
+
+### HRMS System Design & Architecture
+
+- Started designing a complete Human Resource Management System (HRMS).
+
+- Implemented RBAC architecture using:
+  - Roles
+  - Permissions
+  - User Roles
+  - Role Permissions
+  - User Permission Overrides
+
+---
+
+### Employee Management System
+
+- Employee Profile
+- Personal Details
+- Work Details
+- Identification Details
+- Bank Details
+- Experience Details
+- Skills Management
+
+---
+
+### Leave Management System
+
+- Leave Types
+- Leave Rules
+- Leave Eligibility Rules
+- Leave Balances
+- Leave Applications
+- Leave Approval Workflow
+
+---
+
+### Asset Management System
+
+- Asset Allocation
+- Asset History Tracking
+
+---
+
+### Document Management System
+
+- Implemented:
+  - Employee Documents
+  - Organization Documents
+  - Signed Documents
+
+---
+
+### Recruitment & Job Portal Workflow
+
+- Job Posting
+- Candidate Applications
+- Interview Scheduling
+- Interview Feedback
+- Offer Management
+- Employee Conversion
+
+---
+
+## 💡 Key Concepts Learned
+
+- Layered Backend Architecture
+- TypeORM Migrations
+- Express Middleware Flow
+- Validation and Error Handling
+- JWT Authentication
+- Password Hashing with bcrypt
+- Authentication vs Authorization
+- Role-Based Access Control (RBAC)
+- Permission Inheritance
+- Employee Master Data Design
+- JSON-Based Data Storage
+- Leave Eligibility Rules
+
+---
+
+## 📈 Major Achievements
+
+- Designed Scalable Backend Architecture for POC1
+- Implemented TypeORM Migration Workflow
+- Built Complete Authentication & Authorization Module
+- Implemented JWT-Based Security
+- Implemented Role-Based Access Control (RBAC)
+- Designed Complete HRMS Database Architecture
+- Implemented Employee Management Module
+- Implemented Leave Management Module
+- Implemented Asset Management Module
+- Implemented Document Management Module
+- Designed End-to-End Recruitment Workflow
+
+---
+
+## 🔄 Work In Progress
+
+- HRMS System Refinement
+- HRMS Workflow Enhancements
+
+---
+
+## ⏳ Pending Tasks
+
+- Refresh Token Implementation
+- Logout Functionality with Token Invalidation
+- Audit Logging System
+
+---
+
+## ⚠️ Challenges / Blockers
+
+- Understanding TypeORM Migration Workflow
+- Tracking Schema Changes Across Migrations
+- Understanding JWT Authentication Flow
+- Managing User Roles and Permissions
+- Designing Employee Data Without Duplication
+- Designing Dynamic Leave Eligibility Rules
+- Managing Leave Carry-Forward Policies
+- Designing Recruitment Workflow State Transitions
+
+---
+
+## 🧑‍🏫 Mentor Feedback Applied
+
+- Writing cleaner and modular backend code
+- Improving debugging and problem-solving skills
+
+---
+
+## 🎯 Plan for Next Week
+
+- Implement Refresh Token Mechanism
+- Add Logout Functionality
+- Product backend routes and conteroller
+
+## 📅 Week: (08/06/2026 - 12/06/2026)
+
+## ✅ Completed Tasks
+
+### POC1 Backend Completion
+
+- Successfully completed POC1 Backend Development using:
+  - Node.js
+  - Express.js
+  - PostgreSQL
+  - TypeORM
+
+---
+
+### Product Management Module
+
+- Create Product API
+- Get All Products API
+- Get Single Product API
+- Update Product API
+- Delete Product API
+
+---
+
+### Cart Management Module
+
+- Add Product to Cart
+- Get User Cart with Product Details
+- Update Cart Item Quantity
+- Remove Cart Item
+- Clear Entire Cart
+
+---
+
+### Database Management
+
+- Learned Database Seeder concepts and use cases
+- Executed Seeders for initial data population
+- Generated Migration Files from Entity Changes
+- Executed Migration Scripts
+- Managed database schema updates through migrations
+
+---
+
+### NestJS Learning & Architecture
+
+- Started NestJS Learning Phase
+- Explored NestJS Project Structure
+- Learned Core NestJS Concepts:
+  - Modules
+  - Controllers
+  - Services
+  - Dependency Injection
+
+- Understood NestJS Request Lifecycle
+
+---
+
+### Prisma ORM Integration
+
+- Configured Prisma ORM with NestJS
+- Established Database Connections
+- Resolved Prisma Version Compatibility Issues
+- Learned Prisma Configuration and Setup Process
+
+---
+
+### DTOs & Validation
+
+- Implemented DTOs (Data Transfer Objects)
+- Applied Request Validation using Validation Pipes
+- Learned Validation Decorators
+- Improved API Data Consistency and Validation Flow
+
+---
+
+### Authentication & Authorization
+
+Implemented complete Authentication Module:
+
+- User Registration (Sign Up)
+- User Login (Sign In)
+- JWT Authentication
+- JWT Strategy Configuration
+- JWT Guard Implementation
+- Protected Routes
+- Custom Decorators for Current User Extraction
+
+---
+
+### User Management Module
+
+Implemented User Module:
+
+- User Controller
+- User Service
+- User Repository
+- User Profile APIs
+
+---
+
+### Bookmark Management Module
+
+Implemented Bookmark Module:
+
+- Bookmark Controller
+- Bookmark Service
+- Bookmark Repository
+
+CRUD Operations:
+
+- Create Bookmark API
+- Get All Bookmarks API
+- Get Single Bookmark API
+- Update Bookmark API
+- Delete Bookmark API
+
+---
+
+### Testing
+
+- Performed API Testing
+- Learned Jest Testing Workflow
+- Executed E2E Testing using Jest
+
+---
+
+### Error Handling & Logging
+
+- Global Exception Filter
+
+Implemented Logging System:
+
+- Winston Logger Configuration
+- Console Logging
+- File-Based Logging
+
+---
+
+### Refresh Token Authentication
+
+- Access Token Generation
+- Refresh Token Generation
+- Refresh Token Storage
+- Refresh Token Validation
+- Refresh Token Rotation Strategy
+- Secure Token Renewal Process
+- Generate New Refresh Token on Every Refresh Request
+
+---
+
+## 💡 Key Concepts Learned
+
+- Product CRUD Operations
+- Shopping Cart Management
+- Database Seeders
+- TypeORM Migrations
+- NestJS Architecture
+- Dependency Injection
+- Modules, Controllers & Services
+- DTOs and Validation Pipes
+- Prisma ORM Integration
+- NestJS Request Lifecycle
+- JWT Authentication
+- Guards and Strategies
+- Custom Decorators
+- Repository Pattern
+- Global Exception Filters
+- Centralized Error Handling
+- Winston Logger
+- Refresh Token Authentication
+- Jest E2E Testing
+
+---
+
+## 📈 Major Achievements
+
+- Successfully Completed POC1 Backend Development
+- Built Complete Product Management Module
+- Built Complete Cart Management Module
+- Implemented Database Seeder Workflow
+- Learned and Integrated Prisma ORM with NestJS
+- Implemented DTO-Based Validation
+- Built Authentication System using JWT
+- Implemented Protected Routes with Guards and Strategies
+- Developed User and Bookmark Modules using Clean Architecture
+- Implemented Jest E2E Testing
+- Implemented Production-Level Global Exception Handling
+- Configured Winston Logger for File and Console Logging
+- Implemented Secure Refresh Token Authentication with Rotation Strategy
+
+---
+
+## 🔄 Work In Progress
+
+- Role-Based Access Control (RBAC) Implementation
+- API Documentation using Swagger
+
+---
+
+## ⏳ Pending Tasks
+
+- Role-Based Access Control (RBAC)
+- Swagger API Documentation
+- Refresh Token Storage Optimization
+- Audit Logging System
+
+---
+
+## ⚠️ Challenges / Blockers
+
+- Understanding NestJS Request Lifecycle
+- Configuring Prisma with Latest Versions
+- Resolving Prisma Connection Issues
+- Understanding JWT Strategy and Guard Workflow
+- Configuring Protected Routes
+- Designing Centralized Error Handling
+- Understanding Refresh Token Rotation Strategy
+
+---
+
+## 🧑‍🏫 Mentor Feedback Applied
+
+- Followed Modular Architecture Principles
+- Improved Separation of Concerns using Controller-Service-Repository Pattern
+- Enhanced Validation and Error Handling Practices
+
+---
+
+## 🎯 Plan for Next Week
+
+- Implement Role-Based Access Control (RBAC)
+- Integrate Swagger API Documentation
+- Start POC of NestJS
+
+## 📅 Week: (15/06/2026 - 19/06/2026)
+
+## ✅ Completed Tasks
+
+### Microservices & Notification System
+
+- Learned NestJS Microservices Architecture
+- Integrated Microservices into Bookmark API
+- Implemented Service-to-Service Communication
+- Explored Event-Driven Architecture Concepts
+
+Implemented Notification Microservice:
+
+- Dedicated Notification Service
+- Decoupled Notification Logic
+- Event-Based Notification Processing
+
+Implemented Email Notification System:
+
+- Nodemailer Configuration
+- Dynamic Email Templates
+- User Registration Email Notifications
+- Bookmark Creation Email Notifications
+- Order Confirmation Emails
+- Payment Success Emails
+
+---
+
+### Monorepo Architecture & Project Setup
+
+- Learned Monorepo Architecture in NestJS
+- Studied Scalable Folder Structures for:
+  - Monolithic Applications
+  - Microservice Applications
+
+- Explored Shared Libraries and Reusable Modules
+
+Started POC1 Ecommerce Backend API:
+
+- Project Initialization
+- Application Structure Setup
+- Scalable Architecture Design
+
+---
+
+### Database Design & Prisma ORM
+
+- Configured Prisma ORM
+- Designed Ecommerce Database Schema
+- Implemented Entity Relationships
+- Generated and Executed Prisma Migrations
+
+Created Database Models:
+
+- User Model
+- Product Model
+- Cart Model
+- Order Model
+- Payment Related Tables
+
+---
+
+### Authentication & Authorization
+
+Implemented Complete Authentication System:
+
+- User Registration (Sign Up)
+- User Login (Sign In)
+- JWT Authentication
+- JWT Strategy
+- JWT Guards
+- Protected Routes
+
+Implemented Refresh Token Authentication:
+
+- Access Token Generation
+- Refresh Token Generation
+- Refresh Token Validation
+- Refresh Token Rotation
+- Secure Token Renewal Process
+
+Implemented Authorization Features:
+
+- Role-Based Access Control (RBAC)
+- Role Management
+- Authorization Guards
+- Role-Based Route Protection
+- Custom Decorators
+
+---
+
+### Ecommerce Modules
+
+Implemented Product Module:
+
+- Product CRUD Operations
+- Admin Product Management APIs
+
+Implemented Cart Module:
+
+- Add to Cart
+- Update Cart
+- Remove Cart Item
+- User Cart Operations
+
+Implemented Order Module:
+
+- Create Order API
+- Get Orders API
+- Cart to Order Conversion
+- Order Lifecycle Management
+
+Implemented Payment Module:
+
+- Payment Processing Flow
+- Payment Status Management
+- Payment Retry Mechanism
+- Success, Failed and Pending States
+
+- Automatic Cart Clearance After Successful Order Placement
+
+---
+
+### Notification Persistence
+
+- Integrated Notification Microservice with Ecommerce Modules
+- Order Confirmation Notifications
+- Payment Success Notifications
+- Stored Notifications in Database
+- Notification History Tracking
+
+---
+
+### Admin Dashboard APIs
+
+- User Summary API
+- Product Summary API
+- Order Summary API
+
+---
+
+### API Documentation
+
+Learned Swagger Documentation in NestJS
+
+- Swagger Setup
+- Controller Documentation
+- DTO Documentation
+- Request Documentation
+- Response Documentation
+- JWT Authentication Integration
+
+---
+
+### Error Handling & Security
+
+- HTTP Exceptions
+- Global Exception Filter
+- Centralized Error Management
+
+---
+
+## 💡 Key Concepts Learned
+
+- NestJS Microservices
+- Event-Driven Architecture
+- Service-to-Service Communication
+- Notification Microservice
+- Nodemailer
+- Email Templates
+- Monorepo Architecture
+- Scalable Folder Structure
+- Prisma ORM
+- Database Modeling
+- Prisma Migrations
+- JWT Authentication
+- Access Tokens
+- Refresh Tokens
+- Refresh Token Rotation
+- Guards and Strategies
+- Role-Based Access Control (RBAC)
+- Authorization
+- Product Management
+- Cart Management
+- Order Management
+- Payment Processing
+- Notification Persistence
+- Admin Dashboard APIs
+- Swagger Documentation
+- Global Exception Filters
+- Centralized Error Handling
+
+---
+
+## 📈 Major Achievements
+
+- Successfully Implemented NestJS Microservices Architecture
+- Built Dedicated Notification Microservice
+- Integrated Automated Email Notification System
+- Learned and Implemented Monorepo Architecture
+- Designed Complete Ecommerce Database using Prisma ORM
+- Implemented Secure JWT Authentication and Refresh Token Rotation
+- Implemented Role-Based Access Control (RBAC)
+- Built Product, Cart, Order, and Payment Modules
+- Integrated Notification System with Ecommerce Workflows
+- Implemented Notification Persistence and History Tracking
+- Developed Admin Dashboard Summary APIs
+- Integrated Swagger API Documentation
+- Implemented Production-Level Error Handling and Security
+
+---
+
+## 🔄 Work In Progress
+
+- Microservice Communication Optimization
+- Scalability Improvements
+- Advanced Notification Processing
+
+---
+
+## ⏳ Pending Tasks
+
+- Email Queue Implementation
+- Advanced Swagger Customization
+- Swagger API Versioning
+- Real Payment Gateway Integration
+- Permission-Based Authorization
+- Microservice Scaling Strategy
+
+---
+
+## ⚠️ Challenges / Blockers
+
+- Understanding Microservice Communication Flow
+- Configuring Nodemailer Correctly
+- Designing Scalable Monorepo Structure
+- Understanding Prisma Migration Workflow
+- Implementing Secure Refresh Token Rotation
+- Designing Role-Based Route Protection
+- Managing Order and Payment Lifecycle
+- Synchronizing Notification Events Across Services
+- Configuring Swagger Authentication Flows
+
+---
+
+## 🧑‍🏫 Mentor Feedback Applied
+
+- Followed Modular and Scalable Architecture Principles
+- Applied Event-Driven Design Concepts
+- Enhanced Error Handling and API Documentation Practices
+
+---
+
+## 🎯 Plan for Next Week
+
+- Optimize Microservice Communication
+- Implement Email Queue Processing
+
+## 📅 Week: (22/06/2026 - 26/06/2026)
+
+## ✅ Completed Tasks
+
+### Database & Architecture
+
+- Learned Database Sharding Concepts
+- Explored Multiple Database Handling in Microservices
+- Experimented with Frontend and Backend Integration
+
+Started Final POC Ecommerce Backend:
+
+- Designed Monolithic Architecture
+- Implemented Domain-Driven Structure
+- Applied Mapper Pattern
+- Integrated TypeORM
+- Developed User Module
+
+---
+
+### Authentication & Security
+
+Implemented Authentication System:
+
+- JWT Authentication
+- JWT Guards
+- Role-Based Authorization
+- Passport Strategies
+
+Integrated Swagger Documentation:
+
+- API Documentation Setup
+- DTO Documentation
+- JWT Authentication Support
+
+Implemented Global HTTP Exception Filter
+
+---
+
+### Ecommerce Modules
+
+Implemented Product Module:
+
+- Product CRUD Operations
+
+Implemented Cart Module:
+
+- User Cart Operations
+
+Implemented Order Module:
+
+- Order Creation
+- Order Status Management
+
+Implemented Payment Module:
+
+- Payment Processing
+- Payment Status Handling
+
+---
+
+### Microservices & Notification System
+
+Integrated Notification Microservice:
+
+- RabbitMQ Integration
+- Event-Based Communication
+
+Implemented Email Service:
+
+- Order Confirmation Emails
+- Payment Success Emails
+
+Developed Notification Module:
+
+- Notification Storage
+- Database Integration
+- Notification APIs
+
+---
+
+### Admin Dashboard
+
+Implemented Admin Dashboard
+
+Developed Admin Management APIs:
+
+- User Management
+- Order Management
+- Payment Management
+- Notification Management
+
+Added Admin-Specific Protected Routes
+
+---
+
+## 💡 Key Concepts Learned
+
+- Database Sharding
+- Multiple Database Handling
+- Monolithic Architecture
+- Domain Architecture
+- Mapper Pattern
+- TypeORM
+- JWT Authentication
+- Guards and Strategies
+- Role-Based Authorization
+- Swagger Documentation
+- HTTP Exception Filter
+- Product Module
+- Cart Module
+- Order Module
+- Payment Module
+- RabbitMQ
+- Event-Driven Architecture
+- Notification Module
+- Admin Dashboard
+
+---
+
+## 📈 Major Achievements
+
+- Learned Database Sharding and Multi-Database Architecture
+- Built a Production-Style Monolithic Backend using Domain Architecture
+- Integrated TypeORM with Clean Architecture
+- Implemented Secure Authentication and Authorization
+- Developed Product, Cart, Order, and Payment Modules
+- Integrated RabbitMQ-Based Notification Microservice
+- Implemented Email Notification Service
+- Built Notification Persistence Module
+- Developed Admin Dashboard and Admin-Specific APIs
+- Integrated Swagger Documentation and Global Exception Handling
+
+---
+
+## 🔄 Work In Progress
+
+- Backend Integration Completion
+- Notification System Enhancement
+- Admin Dashboard Improvements
+
+---
+
+## ⏳ Pending Tasks
+
+- Real-Time Notification Support
+- Dashboard Performance Optimization
+- Production Deployment Preparation
+
+---
+
+## ⚠️ Challenges / Blockers
+
+- Understanding Database Sharding Strategies
+- Configuring Multiple Database Connections
+- Designing Domain-Based Architecture
+- Configuring RabbitMQ Communication
+- Integrating JWT Authentication with Swagger
+- Managing Role-Based Authorization
+
+---
+
+## 🧑‍🏫 Mentor Feedback Applied
+
+- Followed Clean Domain-Driven Architecture
+- Applied Modular Development Practices
+- Improved API Documentation and Error Handling
+
+---
+
+## 🎯 Plan for Next Week
+
+- Complete End-to-End Project Integration
+- Prepare the Project for Production Deployment
+
+## 📅 Week: (29/06/2026 - 03/07/2026)
+
+## ✅ Completed Tasks
+
+### HRMS Holiday Management
+
+Implemented Holiday Management Module:
+
+- Holiday CRUD Operations
+- Holiday Listing with Pagination
+- Search and Filter Support
+- Holiday Status Management (Active/Inactive)
+
+Integrated Holiday APIs:
+
+- Create Holiday
+- Update Holiday
+- Delete Holiday
+- Bulk Holiday Creation
+- Bulk Status Update
+- Annual Holiday Calendar API
+- Upcoming Holidays API
+
+---
+
+### Frontend Development
+
+Developed Holiday Management Screens:
+
+- Holiday List Page
+- Create Holiday Form
+- Edit Holiday Form
+- Annual Holiday Calendar View
+
+Implemented UI Features:
+
+- Server-Side Pagination
+- Search Functionality
+- Advanced Filters
+- URL Query Parameter Synchronization
+- Form Validation
+- Loading and Error States
+
+---
+
+### Backend Integration
+
+Integrated Frontend with HRMS APIs:
+
+- React Query Integration
+- API Error Handling
+- Optimistic UI Updates
+- Request and Response Mapping
+
+Implemented Bulk Operations:
+
+- Bulk Holiday Creation
+- Bulk Status Update
+- Bulk Delete Support
+
+---
+
+### Code Quality & Improvements
+
+Improved Project Structure
+Optimized API Integration
+Enhanced TypeScript Type Safety
+Refactored Reusable Components
+Resolved Frontend Integration Issues
+
+---
+
+## 💡 Key Concepts Learned
+
+- HRMS Holiday Management Workflow
+- REST API Integration
+- React Query Data Fetching
+- URL-Based Filter Management
+- Server-Side Pagination
+- Bulk Operations
+- Form Validation
+- TypeScript Type Safety
+- Reusable Component Design
+- Error Handling Best Practices
+
+---
+
+## 📈 Major Achievements
+
+- Completed End-to-End Holiday Management Module
+- Integrated HRMS Holiday APIs with Frontend
+- Implemented Advanced Filtering and Search
+- Added Bulk Holiday Management Features
+- Improved Code Reusability and Maintainability
+- Enhanced User Experience with Optimized API Handling
+
+---
+
+## 🔄 Work In Progress
+
+- Holiday Module Enhancements
+- UI and UX Improvements
+- API Performance Optimization
+
+---
+
+## ⏳ Pending Tasks
+
+- Additional Holiday Management Features
+- Module Optimization
+- Final Testing and Bug Fixes
+
+---
+
+## ⚠️ Challenges / Blockers
+
+- Handling Complex Filter Synchronization with URL Parameters
+- Managing Bulk API Operations
+- Maintaining Type Safety Across API Integration
+- Optimizing State Management During API Calls
+
+---
+
+## 🧑‍🏫 Mentor Feedback Applied
+
+- Improved Component Reusability
+- Followed Project Coding Standards
+- Refined API Integration Approach
+- Enhanced Overall Code Maintainability
+
+---
+
+## 🎯 Plan for Next Week
+
+- Complete Remaining HRMS Enhancements
+- Optimize Existing Modules
+- Perform End-to-End Testing and Resolve Remaining Issues
+
+## 📅 Week: (06/07/2026 - 10/07/2026)
+
+## ✅ Completed Tasks
+
+### HRMS Enhancements
+
+Continued HRMS Improvements:
+
+- Applied Code Review Suggestions
+- Fixed UI and API Integration Issues
+- Resolved Existing Bugs
+- Improved Overall Code Quality
+- Refactored Components for Better Maintainability
+
+---
+
+### Final POC Frontend Setup
+
+Initialized Final POC Frontend:
+
+- Created Project Boilerplate
+- Configured Application Routing
+- Organized Feature-Based Project Structure
+- Added Shared Layouts
+- Configured Base Application Setup
+
+Developed Reusable Foundation:
+
+- Added Reusable Components
+- Created Common Utility Functions
+- Configured Shared Constants
+- Implemented Base Folder Structure
+- Added Common API Utilities
+
+---
+
+### Authentication Module
+
+Started Authentication Development:
+
+- Implemented Login Page
+- Implemented Register Page
+- Integrated Authentication APIs
+- Connected Frontend with Backend Authentication
+- Configured Authentication Routes
+- Implemented Protected Routes
+
+Resolved Authentication Issues:
+
+- Fixed Authentication Flow Errors
+- Improved API Integration
+- Resolved Route Protection Issues
+- Enhanced Authentication Error Handling
+
+---
+
+### User Module
+
+Started User Feature Development:
+
+- Created User Feature Structure
+- Added User Routes
+- Integrated User APIs
+- Developed Initial User Screens
+- Configured Feature-Based Routing
+- Fixed User Module Integration Issues
+
+---
+
+### Product Module
+
+Started Product Feature Development:
+
+- Created Product Feature Structure
+- Integrated Product APIs
+- Developed Product Listing
+- Configured Product Routes
+- Implemented Product Data Fetching
+
+Updated Frontend Based on Backend Changes:
+
+- Updated API Integrations
+- Modified Request and Response Models
+- Updated Endpoints
+- Refactored Components to Match Backend Changes
+- Fixed Integration Issues After Backend Updates
+
+---
+
+### Frontend Improvements
+
+Enhanced Frontend Stability:
+
+- Implemented Centralized Error Handling
+- Improved API Error Management
+- Fixed Authentication-Related Issues
+- Resolved Frontend Runtime Errors
+- Improved Type Safety Across Modules
+- Refined Reusable Component Architecture
+
+---
+
+## 💡 Key Concepts Learned
+
+- Feature-Based Frontend Architecture
+- Reusable Component Design
+- Authentication Flow
+- Protected Routing
+- Product Module Integration
+- Backend-Driven Frontend Development
+- API Integration Best Practices
+- Centralized Error Handling
+- Feature Module Organization
+- TypeScript Error Resolution
+- Code Review Best Practices
+
+---
+
+## 📈 Major Achievements
+
+- Improved HRMS Module Based on Code Review
+- Initialized Final POC Frontend Architecture
+- Built Reusable Project Foundation
+- Implemented Login and Registration Flow
+- Integrated Authentication APIs
+- Started User Module Development
+- Started Product Module Development
+- Updated Frontend to Match Backend API Changes
+- Improved Frontend Error Handling and Overall Stability
+
+---
+
+## 🔄 Work In Progress
+
+- User Module Development
+- Product Module Enhancements
+- Authentication Improvements
+- Frontend Feature Development
+
+---
+
+## ⏳ Pending Tasks
+
+- Complete User Management Features
+- Complete Product Management Features
+- Integrate Remaining Backend APIs
+- Continue Feature Development
+
+---
+
+## ⚠️ Challenges / Blockers
+
+- Resolving Authentication Integration Issues
+- Handling Backend API Changes
+- Managing Route Protection
+- Handling API Error Scenarios
+- Maintaining Reusable Frontend Architecture
+
+---
+
+## 🧑‍🏫 Mentor Feedback Applied
+
+- Applied Code Review Suggestions
+- Improved Project Structure
+- Increased Component Reusability
+- Followed Modular Development Practices
+- Refactored Code Based on Backend Updates
+
+---
+
+## 🎯 Plan for Next Week
+
+- Complete User and Product Modules
+- Continue API Integration
+- Implement Remaining Application Features
+- Optimize Frontend Architecture and Code Quality
+
+## 📅 Week: (13/07/2026 - 17/07/2026)
+
+## ✅ Completed Tasks
+
+### Product Module Enhancements
+
+- Admin & Customer Product Page Implementation
+- Product Detail Page & Customer Product Card Redesign
+- UI Enhancements and Refinements for Product Management
+
+### Cart & Backend Integration
+
+- Cart Page Development and Full-Stack Feature Integration
+- Backend Enhancements for Product and Cart APIs
+- Synchronized frontend workflows with backend APIs
+
+### Authentication & Admin Module
+
+- Implemented Protected Routes for Admin and User
+- Configured Role-Based Access Control and Route Configuration
+- Developed Admin User Management Screen
+- Built Order Management for Admin and Customer
+
+### Admin Dashboard Development
+
+- Built Dashboard Statistics Cards and Data Visualization
+- Integrated Summary and Payment Summary APIs
+- Displayed real-time dashboard data using backend APIs
+
+---
+
+## 💡 Key Concepts Learned
+
+- Product Management UI and Detailed Layouts
+- Admin & Customer Workflows
+- Cart Management
+- Route Protection and Role-Based Access Control
+- Dashboard Analytics and Admin Reporting
+- API Integration for Summary Data
+
+---
+
+## 📈 Major Achievements
+
+- Built separate product experiences for admin and customer users
+- Managed complete cart functionality and frontend-backend synchronization
+- Configured secure routing for different user roles
+- Developed the admin dashboard with real-time analytics visualization
+
+---
+
+## 🔄 Work In Progress
+
+- Payment-related enhancements
+- Notification features
+- UI/UX refinements
+
+---
+
+## ⏳ Pending Tasks
+
+- Refine payment UI and workflows
+- Complete Notification System implementation
+- Overall application performance optimization
+
+---
+
+## ⚠️ Challenges / Blockers
+
+- Maintaining consistent UI behavior between admin and customer product pages
+- Keeping frontend and backend changes synchronized
+- Managing role-based navigation and route accessibility
+- Integrating multiple summary APIs into a unified dashboard
+
+---
+
+## 🧑‍🏫 Mentor Feedback Applied
+
+- Reused common UI components and standardized layouts
+- Structured API calls efficiently
+- Implemented protected routes systematically
+
+---
+
+## 🎯 Plan for Next Week
+
+- Enhance Payment and Notification modules
+- Resolve remaining integration issues like access tokens
+- Conduct frontend refactoring and UI improvements
+
+## 📅 Week: (20/07/2026 - 24/07/2026)
+
+## ✅ Completed Tasks
+
+### Payment & Notification Module
+
+- Payment UI Improvements
+- Order and Payment Notifications Integration
+- Backend Updates for Payment and Notification Workflows
+- Resolved Access Token Issues
+
+### Frontend Refactoring & UI Improvements
+
+- Conducted extensive Code Refactoring
+- Implemented Customer Category Bar
+- Enhanced overall Performance and Component structure
+
+---
+
+## 💡 Key Concepts Learned
+
+- Payment Workflow Integration
+- Notification System Implementation
+- Advanced Code Refactoring
+- Frontend Optimization
+- Authentication Flow Troubleshooting
+
+---
+
+## 📈 Major Achievements
+
+- Integrated payment-related features across frontend and backend
+- Managed authentication and notification workflows successfully
+- Improved maintainability through systematic code refactoring
+- Built reusable and optimized UI components
+
+---
+
+## 🔄 Work In Progress
+
+- Codebase refactoring
+- Customer shopping experience improvements
+
+---
+
+## ⏳ Pending Tasks
+
+- Continue optimizing the application
+- Improve user experience
+- Implement any remaining features before final deployment
+
+---
+
+## ⚠️ Challenges / Blockers
+
+- Resolving access token issues while maintaining authenticated requests
+- Refactoring existing components without affecting functionality
+
+---
+
+## 🧑‍🏫 Mentor Feedback Applied
+
+- Updated authentication flow and fixed token handling securely
+- Incrementally refactored components and validated existing features after each update
+
+---
+
+## 🎯 Plan for Next Week
+
+- Final review and optimizations
+- Prepare the project for final presentation/deployment
