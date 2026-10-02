@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import type { ChatMessageType, SetChatMessages } from "../types/chat";
 import { Chatbot } from "supersimpledev";
 import spinner from "../assets/loading-spinner.gif";

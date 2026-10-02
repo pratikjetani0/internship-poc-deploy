@@ -1,4 +1,3 @@
-import React from "react";
 import type { CartItem } from "../types";
 import { Trash2, Plus, Minus } from "lucide-react";
 

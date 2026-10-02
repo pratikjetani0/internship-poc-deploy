@@ -5,7 +5,7 @@ export const typeOrmConfig = (): TypeOrmModuleOptions => ({
 
   host: process.env.DB_HOST,
 
-  port: Number(process.env.DB_PORT),
+  port: Number(process.env.DB_PORT || 5432),
 
   username: process.env.DB_USERNAME,
 
@@ -16,4 +16,9 @@ export const typeOrmConfig = (): TypeOrmModuleOptions => ({
   autoLoadEntities: true,
 
   synchronize: true,
+
+  ssl:
+    process.env.DB_SSL === 'true' || process.env.DB_HOST?.includes('neon.tech')
+      ? { rejectUnauthorized: false }
+      : false,
 });

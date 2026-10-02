@@ -78,7 +78,7 @@ const ProductModal = ({ product, onClose, onAddToCart }: ProductModalProps) => {
         {/* Right Side Details */}
         <div className="w-1/2 flex flex-col justify-center">
           <p className="text-sm uppercase tracking-wider text-gray-500 mb-2">
-            {product.category.name}
+            {product.category}
           </p>
 
           <h2 className="text-4xl font-semibold leading-tight mb-5">

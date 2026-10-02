@@ -18,8 +18,12 @@ async function bootstrap() {
 
   app.use(cookieParser());
 
+  const allowedOrigins = process.env.FRONTEND_URL
+    ? [process.env.FRONTEND_URL, 'http://localhost:5173']
+    : true;
+
   app.enableCors({
-    origin: 'http://localhost:5173',
+    origin: allowedOrigins,
     credentials: true,
   });
 
@@ -27,6 +31,7 @@ async function bootstrap() {
 
   setupSwagger(app);
 
-  await app.listen(process.env.port ?? 3000);
+  const port = process.env.PORT || process.env.port || 3000;
+  await app.listen(port);
 }
 bootstrap();

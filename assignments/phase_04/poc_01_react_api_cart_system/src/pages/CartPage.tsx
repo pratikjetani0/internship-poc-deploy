@@ -1,4 +1,3 @@
-import React from "react";
 import type { CartItem } from "../types";
 import CartItemCard from "../components/CartItemCard";
 import CartSummary from "../components/CartSummary";

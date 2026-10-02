@@ -1,4 +1,4 @@
-import React, { useEffect, useRef } from "react";
+import { useEffect, useRef } from "react";
 import type { ChatMessageType } from "../types/chat";
 import ChatMessageUi from "./ChatMessageUi";
 
