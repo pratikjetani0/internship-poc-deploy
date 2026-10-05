@@ -8,6 +8,10 @@ import { ValidationPipe } from '@nestjs/common';
 async function bootstrap() {
   const app = await NestFactory.create(ApiGatewayModule);
 
+  const express = await import('express');
+  app.use(express.json({ limit: '10mb' }));
+  app.use(express.urlencoded({ extended: true, limit: '10mb' }));
+
   app.useGlobalPipes(
     new ValidationPipe({
       whitelist: true,
