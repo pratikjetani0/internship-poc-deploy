@@ -18,13 +18,16 @@ async function bootstrap() {
 
   app.use(cookieParser());
 
-  const allowedOrigins = process.env.FRONTEND_URL
-    ? [process.env.FRONTEND_URL, 'http://localhost:5173']
-    : true;
-
   app.enableCors({
-    origin: allowedOrigins,
+    origin: (origin, callback) => {
+      // Allow requests with no origin (like mobile apps, curl, Postman)
+      if (!origin) return callback(null, true);
+      // Dynamically reflect origin to support any Vercel domain and localhost
+      return callback(null, true);
+    },
     credentials: true,
+    methods: ['GET', 'HEAD', 'PUT', 'PATCH', 'POST', 'DELETE', 'OPTIONS'],
+    allowedHeaders: ['Content-Type', 'Accept', 'Authorization', 'X-Requested-With'],
   });
 
   app.useGlobalFilters(new HttpExceptionFilter());
@@ -35,3 +38,4 @@ async function bootstrap() {
   await app.listen(port);
 }
 bootstrap();
+
