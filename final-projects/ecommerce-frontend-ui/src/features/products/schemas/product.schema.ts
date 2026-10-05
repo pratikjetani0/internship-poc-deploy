@@ -23,7 +23,7 @@ export const productSchema = z.object({
     .int("Stock must be a whole number")
     .min(0, "Stock cannot be negative"),
   images: z
-    .array(z.string().url("Invalid image URL"))
+    .array(z.string().refine((val) => val.startsWith("http://") || val.startsWith("https://") || val.startsWith("data:image/"), "Invalid image URL"))
     .min(1, "At least one image is required"),
   specifications: z.record(z.string(), z.unknown()).default({}),
   isActive: z.boolean().default(true),
