@@ -46,6 +46,7 @@ const getColumns = ({
     {
       id: "image",
       header: "Image",
+      className: "w-20",
       cell: (product) => (
         <img
           src={product.images[0] ?? "/placeholder-product.png"}
@@ -58,29 +59,51 @@ const getColumns = ({
       id: "name",
       header: "Name",
       sortable: true,
-      cell: (product) => product.name,
+      className: "w-72 min-w-[220px]",
+      cell: (product) => (
+        <span
+          className="block truncate max-w-[260px] font-medium text-foreground cursor-default"
+          title={product.name}
+        >
+          {product.name}
+        </span>
+      ),
     },
     {
       id: "category",
       header: "Category",
       sortable: true,
-      cell: (product) => product.category,
+      className: "w-36 whitespace-nowrap",
+      cell: (product) => (
+        <span className="capitalize text-muted-foreground whitespace-nowrap">
+          {product.category}
+        </span>
+      ),
     },
     {
       id: "price",
       header: "Price",
       sortable: true,
-      cell: (product) => `₹${product.price.toLocaleString()}`,
+      className: "w-32 whitespace-nowrap",
+      cell: (product) => (
+        <span className="whitespace-nowrap font-medium">
+          ₹{Number(product.price).toLocaleString("en-IN")}
+        </span>
+      ),
     },
     {
       id: "stock",
       header: "Stock",
       sortable: true,
-      cell: (product) => product.stock,
+      className: "w-24 whitespace-nowrap",
+      cell: (product) => (
+        <span className="whitespace-nowrap">{product.stock}</span>
+      ),
     },
     {
       id: "status",
       header: "Status",
+      className: "w-28 whitespace-nowrap",
       cell: (product) =>
         product.isActive ? (
           <Badge>Active</Badge>

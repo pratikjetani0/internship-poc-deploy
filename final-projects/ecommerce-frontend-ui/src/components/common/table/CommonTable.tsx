@@ -322,7 +322,7 @@ export function CommonTable<TData>({
                   {columns.map((column, columnIndex) => (
                     <TableCell
                       key={column.id}
-                      className={cn("px-4 py-4", column.cellClassName)}
+                      className={cn("px-4 py-4", column.className, column.cellClassName)}
                     >
                       <div
                         className={cn(
@@ -372,7 +372,7 @@ export function CommonTable<TData>({
                 {columns.map((column) => (
                   <TableCell
                     key={column.id}
-                    className={cn("px-4 py-4", column.cellClassName)}
+                    className={cn("px-4 py-4", column.className, column.cellClassName)}
                   >
                     {column.cell(row, rowIndex)}
                   </TableCell>
@@ -391,3 +391,4 @@ export function CommonTable<TData>({
     </section>
   );
 }
+
